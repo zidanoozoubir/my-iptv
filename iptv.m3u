@@ -3,6 +3,9 @@
 #EXTINF:-1,bien max 1
 http://185.160.192.14/live/171348492752/5S6HGsea3j/256102.m3u8
 
+#EXTINF:-1,bien max 1 GE
+http://ck-200.genralo.lat:8080/msd1.html?token=1cd8706292020c2036cb7c59c0ef6590&ip=41.99.126.143
+
 #EXTINF:-1,bien max 2
 http://185.160.192.14/live/171348492752/5S6HGsea3j/255227.m3u8
 
