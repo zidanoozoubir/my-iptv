@@ -1,54 +1,5 @@
 #EXTM3U
 
-# ==================== مجموعة قنوات Bien 4k ====================
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 1",bien 4K 1
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 2",bien 4K 2
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318197.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 3",bien 4K 3
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318198.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 4",bien 4K 4
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318199.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 5",bien 4K 5
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/440580.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 6",bien 4K 6
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318201.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 7",bien 4K 7
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318202.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 8",bien 4K 8
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318203.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 9",bien 4K 9
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318204.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 10",bien 4K 10
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318205.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 11",bien 4K 11
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319495.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 12",bien 4K 12
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319496.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 13",bien 4K 13
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319497.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K 14",bien 4K 14
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319498.ts
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K Lynx 1",bien 4K Lynx 1
-http://live.lynxiptv.xyz/live/206923845871/mI45UxamwN/67374.m3u8
-
-#EXTINF:-1 group-title="Bien 4k" tvg-name="bien 4K Lynx 2",bien 4K Lynx 2
-http://live.lynxiptv.xyz/live/255810218465/edHOk2OT4C/228300.m3u8
-
 # ==================== مجموعة قنوات Bien Max ====================
 #EXTINF:-1 group-title="Bien Max" tvg-name="bien max 1",bien max 1
 http://185.160.192.14/live/171348492752/5S6HGsea3j/256102.m3u8
@@ -103,6 +54,55 @@ http://185.160.192.14/live/171348492752/5S6HGsea3j/255239.m3u8
 
 #EXTINF:-1 group-title="Bien Max" tvg-name="bien max 18",bien max 18
 http://185.160.192.14/live/171348492752/5S6HGsea3j/256123.m3u8
+
+# ==================== مجموعة قنوات Bien 4K ====================
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 1",bien 4K 1
+http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 2",bien 4K 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318197.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 3",bien 4K 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318198.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 4",bien 4K 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318199.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 5",bien 4K 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/440580.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 6",bien 4K 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318201.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 7",bien 4K 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318202.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 8",bien 4K 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318203.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 9",bien 4K 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318204.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 10",bien 4K 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/318205.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 11",bien 4K 11
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319495.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 12",bien 4K 12
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319496.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 13",bien 4K 13
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319497.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 14",bien 4K 14
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319498.ts
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K Lynx 1",bien 4K Lynx 1
+http://live.lynxiptv.xyz/live/206923845871/mI45UxamwN/67374.m3u8
+
+#EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K Lynx 2",bien 4K Lynx 2
+http://live.lynxiptv.xyz/live/255810218465/edHOk2OT4C/228300.m3u8
 
 # ==================== مجموعة قنوات Bien HD ====================
 #EXTINF:-1 group-title="Bien HD" tvg-name="bien hd 1",bien hd 1
@@ -207,3 +207,356 @@ http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/433741.ts
 
 #EXTINF:-1 group-title="ALWAN SPORT" tvg-name="ALWAN SPORT 21",ALWAN SPORT 21
 http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/433742.ts
+
+# ==================== مجموعة قنوات FADJER HD ====================
+#EXTINF:-1 group-title="FADJER HD" tvg-name="AL FAJER 1",AL FAJER 1
+https://k1.marketplace-io-none-kode-steeeee.lol/AL_FAJER_1/index.m3u8?token=af182fcc1f85ebb0b2c5967d3512b7153793d279-0c755d3c203538923e87ef4809204d65-1781737806-1781727006&remote=41.99.86.32
+
+#EXTINF:-1 group-title="FADJER HD" tvg-name="AL FAJER 2",AL FAJER 2
+https://k1.marketplace-io-none-kode-steeeee.lol/AL_FAJER_2/tracks-v1a1/mono.m3u8?remote=41.99.86.32&token=b1e85cc8d2756a6c2ae9fd8ea2604d2949d709fd-ce2209eef2713fa0e76b5461b608ef17-1781738150-1781727350
+
+#EXTINF:-1 group-title="FADJER HD" tvg-name="AL FAJER 3",AL FAJER 3
+https://k1.marketplace-io-none-kode-steeeee.lol/AL_FAJER_3/index.m3u8?token=e5bae2436bac59e4f19c32ebb26622b51969c224-ccf726dd9bcc8e83870e067f610ac921-1781738976-1781728176&remote=41.99.86.32
+
+#EXTINF:-1 group-title="FADJER HD" tvg-name="AL FAJER 4",AL FAJER 4
+https://k1.marketplace-io-none-kode-steeeee.lol/AL_FAJER_4/index.m3u8?token=76fa1309e4f380c7d39f583aa7aeee1f41dff2ab-0895749f17314e2d7ec959bdf574ad6f-1781739110-1781728310&remote=41.99.86.32
+
+#EXTINF:-1 group-title="FADJER HD" tvg-name="AL FAJER 5",AL FAJER 5
+https://k1.marketplace-io-none-kode-steeeee.lol/AL_FAJER_5/index.m3u8?token=b0c0e32e98d3e11e0906230a7ab51fe2fa6a89b7-46ca03419667fda5901dbde263a14001-1781739173-1781728373&remote=41.99.86.32
+
+# ==================== مجموعة قنوات BOX OFFICE ====================
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 1",BOX OFFICE 1
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/245995.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 2",BOX OFFICE 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/245996.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 3",BOX OFFICE 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/245997.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 4",BOX OFFICE 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/245998.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 5",BOX OFFICE 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/245999.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 6",BOX OFFICE 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246000.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 7",BOX OFFICE 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246001.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 8",BOX OFFICE 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246002.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 9",BOX OFFICE 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246003.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 10",BOX OFFICE 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246004.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 11",BOX OFFICE 11
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246005.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 12",BOX OFFICE 12
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246006.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 13",BOX OFFICE 13
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246007.ts
+
+#EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 14",BOX OFFICE 14
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/246008.ts
+
+# ==================== مجموعة قنوات BIEN MOVIES 4K ====================
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 1",BIEN MOVIES 4K 1
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319672.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 2",BIEN MOVIES 4K 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319673.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 3",BIEN MOVIES 4K 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319674.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 4",BIEN MOVIES 4K 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319675.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 5",BIEN MOVIES 4K 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319676.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 6",BIEN MOVIES 4K 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319677.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 7",BIEN MOVIES 4K 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319678.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 8",BIEN MOVIES 4K 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319679.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 9",BIEN MOVIES 4K 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319680.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 10",BIEN MOVIES 4K 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319681.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 11",BIEN MOVIES 4K 11
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319682.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 12",BIEN MOVIES 4K 12
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319683.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 13",BIEN MOVIES 4K 13
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319684.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 14",BIEN MOVIES 4K 14
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319685.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES 4K" tvg-name="BIEN MOVIES 4K 15",BIEN MOVIES 4K 15
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319686.ts
+
+# ==================== مجموعة قنوات BIEN MOVIES HD ====================
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 1",BIEN MOVIES HD 1
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319687.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 2",BIEN MOVIES HD 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319688.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 3",BIEN MOVIES HD 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319689.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 4",BIEN MOVIES HD 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319690.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 5",BIEN MOVIES HD 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319691.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 6",BIEN MOVIES HD 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319692.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 7",BIEN MOVIES HD 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319693.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 8",BIEN MOVIES HD 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319694.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 9",BIEN MOVIES HD 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319695.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 10",BIEN MOVIES HD 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319696.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 11",BIEN MOVIES HD 11
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319697.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 12",BIEN MOVIES HD 12
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319698.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 13",BIEN MOVIES HD 13
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319699.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 14",BIEN MOVIES HD 14
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319700.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 15",BIEN MOVIES HD 15
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319701.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 16",BIEN MOVIES HD 16
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319702.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 17",BIEN MOVIES HD 17
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319703.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 18",BIEN MOVIES HD 18
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319704.ts
+
+#EXTINF:-1 group-title="BIEN MOVIES HD" tvg-name="BIEN MOVIES HD 19",BIEN MOVIES HD 19
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319705.ts
+
+# ==================== مجموعة قنوات SHOWTIME HD ====================
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 1",SHOWTIME HD 1
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280000.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 2",SHOWTIME HD 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280001.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 3",SHOWTIME HD 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280002.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 4",SHOWTIME HD 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280003.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 5",SHOWTIME HD 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280004.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 6",SHOWTIME HD 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280005.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 7",SHOWTIME HD 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280006.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 8",SHOWTIME HD 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280007.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 9",SHOWTIME HD 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280008.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 10",SHOWTIME HD 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/280009.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 11",SHOWTIME HD 11
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130502.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 12",SHOWTIME HD 12
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130504.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 13",SHOWTIME HD 13
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130510.ts
+
+#EXTINF:-1 group-title="SHOWTIME HD" tvg-name="SHOWTIME HD 14",SHOWTIME HD 14
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130511.ts
+
+# ==================== مجموعة قنوات HBO HD ====================
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 1",HBO HD 1
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130532.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 2",HBO HD 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130533.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 3",HBO HD 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130534.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 4",HBO HD 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130535.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 5",HBO HD 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130536.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 6",HBO HD 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/130537.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 7",HBO HD 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/244940.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 8",HBO HD 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/145917.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 9",HBO HD 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/145263.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 10",HBO HD 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/144655.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 11",HBO HD 11
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/144266.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 12",HBO HD 12
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/144209.ts
+
+#EXTINF:-1 group-title="HBO HD" tvg-name="HBO HD 13",HBO HD 13
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/143983.ts
+
+# ==================== مجموعة قنوات AMAZON PRIME HD ====================
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 1",AMAZON PRIME HD 1
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414131.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 2",AMAZON PRIME HD 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414132.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 3",AMAZON PRIME HD 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414133.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 4",AMAZON PRIME HD 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414134.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 5",AMAZON PRIME HD 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414135.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 6",AMAZON PRIME HD 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414136.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 7",AMAZON PRIME HD 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414137.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 8",AMAZON PRIME HD 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414138.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 9",AMAZON PRIME HD 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414139.ts
+
+#EXTINF:-1 group-title="AMAZON PRIME HD" tvg-name="AMAZON PRIME HD 10",AMAZON PRIME HD 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/414140.ts
+
+# ==================== مجموعة قنوات NETFLIX HD ====================
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 1",NETFLIX HD 1
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/146568.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 2",NETFLIX HD 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/146569.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 3",NETFLIX HD 3
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/146570.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 4",NETFLIX HD 4
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/146571.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 5",NETFLIX HD 5
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/146572.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 6",NETFLIX HD 6
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/146573.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 7",NETFLIX HD 7
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276012.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 8",NETFLIX HD 8
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276013.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 9",NETFLIX HD 9
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276014.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 10",NETFLIX HD 10
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276015.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 11",NETFLIX HD 11
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276016.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 12",NETFLIX HD 12
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276017.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 13",NETFLIX HD 13
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276018.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 14",NETFLIX HD 14
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276019.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 15",NETFLIX HD 15
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276020.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 16",NETFLIX HD 16
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276021.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 17",NETFLIX HD 17
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276022.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 18",NETFLIX HD 18
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276023.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 19",NETFLIX HD 19
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276024.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 20",NETFLIX HD 20
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276025.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 21",NETFLIX HD 21
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276026.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 22",NETFLIX HD 22
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276027.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 23",NETFLIX HD 23
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276028.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 24",NETFLIX HD 24
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276029.ts
+
+#EXTINF:-1 group-title="NETFLIX HD" tvg-name="NETFLIX HD 25",NETFLIX HD 25
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/276030.ts
