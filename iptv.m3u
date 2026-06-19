@@ -1,59 +1,46 @@
 #EXTM3U
 
-# ==================== مجموعة قنوات Bien Max ====================
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 1",bien max 1
-http://185.160.192.14/live/171348492752/5S6HGsea3j/256102.m3u8
+# ==================== مجموعة قنوات Bien Max  ====================
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max 4K 1",Bien Max 4K 1
+http://195.182.16.46:8080/live/omar777/01103978590/460861.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 2",bien max 2
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255227.m3u8
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max HD 1",Bien Max HD 1
+http://185.191.126.127:8080/live//omar777/01103978590/460862.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 3",bien max 3
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/462214.ts
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max SD 1",Bien Max SD 1
+http://onegazal2.xyz:8080/live//omar777/01103978590/460863.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 4",bien max 4
-http://185.191.126.127:8080/live///omar777/01103978590/460862.ts
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max 4K 2",Bien Max 4K 2
+http://195.182.16.44:8080/live/omar777/01103978590/460864.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 5",bien max 5
-http://185.191.126.127:8080/live///omar777/01103978590/460865.ts
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max HD 2",Bien Max HD 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418113.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 6",bien max 6
-http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/460868.ts
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max SD 2",Bien Max SD 2
+http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/418113.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 7",bien max 7
-http://185.191.126.127:8080/live///omar777/01103978590/460863.ts
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max 4K 3",Bien Max 4K 3
+http://195.182.16.44:8080/live/omar777/01103978590/460867.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 8",bien max 8
-http://185.191.126.127:8080/live///omar777/01103978590/460866.ts
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max HD 3",Bien Max HD 3
+http://185.160.192.14/live/anes34/87msit89svtu/255238.m3u8
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 9",bien max 9
-http://185.191.126.127:8080/live///omar777/01103978590/460869.ts
+#EXTINF:-1 group-title="Bien Max" tvg-name="Bien Max SD 3",Bien Max SD 3
+http://185.160.192.14/live/anes34/87msit89svtu/255244.m3u8
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 10",bien max 10
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255224.m3u8
+# ==================== مجموعة قنوات Bien Max S2 ====================
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 11",bien max 11
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255236.m3u8
+#EXTINF:-1 group-title="Bien Max S2" tvg-name="Bien Max 4K 1",Bien Max 4K 1
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1295251.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 12",bien max 12
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255242.m3u8
+#EXTINF:-1 group-title="Bien Max S2" tvg-name="Bien Max HD 1",Bien Max HD 1
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1246128.ts
 
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 13",bien max 13
+#EXTINF:-1 group-title="Bien Max S2" tvg-name="Bien Max 4K 2",Bien Max 4K 2
+http://kalaasmr.blog:8080/live/1793416520/3146985400/1295252.ts
+
+#EXTINF:-1 group-title="Bien Max S2" tvg-name="Bien Max HD 2",Bien Max HD 2
 http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8
-
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 14",bien max 14
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255239.m3u8
-
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 15",bien max 15
-http://185.160.192.14/live/206923845871/mI45UxamwN/255243.m3u8
-
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 16",bien max 16
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255227.m3u8
-
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 17",bien max 17
-http://185.160.192.14/live/171348492752/5S6HGsea3j/255239.m3u8
-
-#EXTINF:-1 group-title="Bien Max" tvg-name="bien max 18",bien max 18
-http://185.160.192.14/live/171348492752/5S6HGsea3j/256123.m3u8
 
 # ==================== مجموعة قنوات Bien 4K ====================
 #EXTINF:-1 group-title="Bien 4K" tvg-name="bien 4K 1",bien 4K 1
