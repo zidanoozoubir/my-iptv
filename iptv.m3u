@@ -131,6 +131,37 @@ http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319437.ts
 #EXTINF:-1 group-title="Bien HD" tvg-name="bien hd 13",bien hd 13
 http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/319438.ts
 
+# ==================== مجموعة قنوات Bien SPORT FR ====================
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 1",Bien SPORT FR HD 1
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr1/tracks-v1a1/mono.m3u8?remote=41.99.14.175&token=82fb506255d48ba41fce7f89c0c7781a37fc7d7b-92f07076f783e0b4d8b7e4668f4f9f64-1781915285-1781904485
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 2",Bien SPORT FR HD 2
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr2/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr2/index.m3u8?token=bd7793bf94b9855927421248d5fdcb350c784977-9bab8740d6543aece33639fae3f674fe-1781915685-1781904885&token=fa9d95ffea29a2355d213aa1679440dceef94081-cd5bac2cab7430d44b39ce638301ac9d-1781915685-1781904885
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 3",Bien SPORT FR HD 3
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr3/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr3/index.m3u8?token=43432c3bbd2059b4d9ab5653c830251800c9db77-e129807bedb8f02664aa7dee1f000e7b-1781915745-1781904945&token=7c29be5315ea3ddc052093e5c699692852fcceb5-3876ebac689c92bba2329894bd425464-1781915745-1781904945
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 4",Bien SPORT FR HD 4
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr_max4/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr_max4/index.m3u8?token=3f3d238da5b8227032596917d49949b551704b81-d632d588ec68811e22615da62e577746-1781915776-1781904976&token=b770c219f35ca83c6a7b7c137f46fceff5e14225-1313ba0550f5fdcbe1f48c4da086b7a9-1781915776-1781904976
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 5",Bien SPORT FR HD 5
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr_max5/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr_max5/index.m3u8?token=9c51c08615144c4bcd13202446697196d77f68e0-6b0924cd494152a5c86bd3247247d9d8-1781915815-1781905015&token=8c8b6ea58df4fee44685913b8d8a46b5d8a9a9ca-ad570f1e8c18a8ff1edf05d8f22080cf-1781915815-1781905015
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 6",Bien SPORT FR HD 6
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr_max6/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr_max6/index.m3u8?token=a5b745562044bace30bc1bea97493f452f3f1c55-97a840ce3eeb58f6d710a28acc53f05e-1781915850-1781905050&token=19d5fcbe087f4a5111dacf8ef3aa07755d1b9158-1382336220bb4c7d3ce257ad07616294-1781915849-1781905049
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 7",Bien SPORT FR HD 7
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr_max7/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr_max7/index.m3u8?token=fa2b2d679d2a15d7156084da180911d69be431c6-f6267b5573d68d8bc4c1da87bb402baf-1781915897-1781905097&token=afe72593fc33704eeab1f982fbbb733d9d6d2fbe-9c1d44d58dcdbb3a23b8d3776024f2d2-1781915897-1781905097
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 8",Bien SPORT FR HD 8
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr_max8/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr_max8/index.m3u8?token=56cfd8909a96815d91f2a328965e02db51c3bcf3-7f1fe4dc6ade664c35343ea7e63f2f64-1781915941-1781905141&token=0604a98a2634d26355498e8f01785e732d101bbc-261f741cf2112c0ebeaec48b31715b67-1781915941-1781905141
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 9",Bien SPORT FR HD 9
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr_max9/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr_max9/index.m3u8?token=73a4b8ce856cd93a355420a1590d5d40b0f829fb-e58dbcc734e5cb75c0b769f0ac29e5bc-1781915971-1781905171&token=97daed460e58c882707fc54bf85490526bcfa20b-d67ad5246d020bdfb85a1a4aa39dedd6-1781915971-1781905171
+
+#EXTINF:-1 group-title="Bien SPORT FR" tvg-name="Bien SPORT FR HD 10",Bien SPORT FR HD 10
+https://k4.marketplace-io-none-kode-steeeee.lol/bein_sport_fr_max10/tracks-v1a1/mono.m3u8?remote=41.99.14.175&remote=41.99.14.175/bein_sport_fr_max10/index.m3u8?token=63de6954ce0f368199e7360b621aadb28a6cc5fc-eae17b21fd5145ef2bcd092b2f9dbb1c-1781915994-1781905194&token=83fe1d364f4ae5029d5d2e92167c06dbc718038e-73b97491ef62fc50f4df3ab2e6fde73f-1781915994-1781905194
+
 # ==================== مجموعة قنوات ALWAN SPORT ====================
 #EXTINF:-1 group-title="ALWAN SPORT" tvg-name="ALWAN SPORT 1",ALWAN SPORT 1
 http://185.191.126.127:8080/live///omar777/01103978590/418112.ts
