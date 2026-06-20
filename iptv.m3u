@@ -339,6 +339,31 @@ https://k1.marketplace-io-none-kode-steeeee.lol/AL_FAJER_4/index.m3u8?token=76fa
 #EXTINF:-1 group-title="FADJER HD" tvg-name="AL FAJER 5",AL FAJER 5
 https://k1.marketplace-io-none-kode-steeeee.lol/AL_FAJER_5/index.m3u8?token=b0c0e32e98d3e11e0906230a7ab51fe2fa6a89b7-46ca03419667fda5901dbde263a14001-1781739173-1781728373&remote=41.99.86.32
 
+# ==================== مجموعة قنوات MBC ====================
+#EXTINF:-1 group-title="MBC" tvg-name="MBC 1",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1 group-title="MBC" tvg-name="MBC 4",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 group-title="MBC" tvg-name="MBC 5",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1 group-title="MBC" tvg-name="MBC MASR",MBC MASR 
+https://shd-gcp-live.lg.mncdn.com/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 group-title="MBC" tvg-name="MBC MASR DRAMA",MBC MASR DRAMA
+https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 group-title="MBC" tvg-name="MBC DRAMA",MBC DRAMA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+
+#EXTINF:-1 group-title="MBC" tvg-name="MBC DRAMA+",MBC DRAMA+
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+#EXTINF:-1 group-title="MBC" tvg-name="MBC IRAQ",MBC IRAQ
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
 # ==================== مجموعة قنوات BOX OFFICE ====================
 #EXTINF:-1 group-title="BOX OFFICE" tvg-name="BOX OFFICE 1",BOX OFFICE 1
 http://185.191.126.127:8080/live///357643467990765/Ofgo3yz8CH/245995.ts
