@@ -43,9 +43,7 @@ http://kalaasmr.blog:8080/live/1793416520/3146985400/1295252.ts
 http://185.160.192.14/live/206923845871/mI45UxamwN/255225.m3u8
 
 # ==================== مجموعة قنوات BIEN SPORT HD YA ===================
-#EXTINF:-1 group-title="BIEN SPORT HD YA" tvg-name="BIEN SPORT 4K 1",BIEN SPORT 4K 1
-#EXTVLCOPT:http-referrer=https://x.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BIEN SPORT HD YA" tvg-name="BIEN SPORT MAX HD 2",BIEN SPORT MAX HD 2
 http://het4444.ycn-redirect.com/live/918454578001/index.m3u8?t=-4Egc6nB9VU2Xu_KpX3DsQ&e=1781956429
 
 # ==================== مجموعة قنوات BIEN SPORT 4K ====================
