@@ -201,6 +201,15 @@ http://het122b.ycn-redirect.com/live/69854211/index.m3u8?t=mv0HQIUoThyvjQdjHMXvj
 #EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien sport max hd 6",bien sport max hd 6
 http://het138a.ycn-redirect.com/live/645587700/index.m3u8?t=PeWylKyAOIkzwEacg18fWQ&e=1781956453
 
+#EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien frande hd 1",bien frande hd 1
+https://s1.marketplace-io-none-kode-steeeee.lol/bein_sport_fr1/index.m3u8?remote=41.98.106.19&token=16a63f7ba4f3336e9f99acc8e0249bf55d22d2bc-2124a8b390df5a442584dd1a303883be-1781989698-1781978898
+
+#EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien frande hd 2",bien frande hd 2
+https://s1.marketplace-io-none-kode-steeeee.lol/bein_sport_fr2/tracks-v1a1/mono.m3u8?remote=41.98.106.19&token=8917410336e3e9f339de12e21c12ec4f37cb3b2e-9b2897022058919b2b6898d9409e5b4a-1781989931-1781979131
+
+#EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien frande hd 3",bien frande hd 3
+https://s1.marketplace-io-none-kode-steeeee.lol/bein_sport_fr3/index.m3u8?remote=41.98.106.19&token=4b68a1d5dfc9aef51b4233e0170ff6605530eead-98f9c61da9c72555137f432450981120-1781990051-1781979251
+
 #EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien sport max sd 1",bien sport max sd 1
 http://het106c.ycn-redirect.com/live/610303030/index.m3u8?t=MykO4htFMbQXKJCt_RT3-w&e=1781956514
 
