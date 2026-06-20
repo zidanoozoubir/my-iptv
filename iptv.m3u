@@ -153,6 +153,12 @@ http://het106c.ycn-redirect.com/live/1515000000/index.m3u8?t=6A5wndiYbZLT6AxsXO-
 #EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien sport 7 Hd",bien sport 7 Hd
 https://k1.marketplace-io-none-kode-steeeee.lol/b7/tracks-v1a1/mono.m3u8?remote=41.98.106.19&token=a963c5e889935159cbe82d08f18bb2340577b90a-bdd2832cf6b11273dd0de7c9d4db83ca-1781988326-1781977526
 
+#EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien sport 8 Hd",bien sport 8 Hd
+https://k1.marketplace-io-none-kode-steeeee.lol/b8/tracks-v1a1/mono.m3u8?remote=41.98.106.19&remote=41.98.106.19/b8/index.m3u8?token=30878171cc8c94e5b0f822e9e1a7fa1be34241db-3bdf1346711c4b3e25538d085e53b83b-1781988561-1781977761&token=02a1d4ea70c80abaf3e9d0051110d889a80310e9-e6e13b9e08f10581d18011acdecd07eb-1781988561-1781977761
+
+#EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="bien sport 9 Hd",bien sport 9 Hd
+https://k1.marketplace-io-none-kode-steeeee.lol/b9/tracks-v1a1/mono.m3u8?remote=41.98.106.19&remote=41.98.106.19/b9/index.m3u8?token=6cb14a5356d949f0d6819eb4483c4f92a0a1a0af-1e8a320949b43bf31ae3483f956aa405-1781988776-1781977976&token=4ea3a8b37acd39cb3da2ccbddf41e2187ab05d35-7b2dcaf5a5eb1b546059df053de3c56f-1781988776-1781977976
+
 #EXTINF:-1 group-title="BIEN SPORT YA" tvg-name="biens sport sd 1",biens sport sd 1
 https://k2.marketplace-io-none-kode-steeeee.lol/b1_480/tracks-v1a1/mono.m3u8?remote=41.98.106.19&token=f75a927d245c0db0849e2983d02ebc9b8f3860e5-f5a3c65aa9fc29daaa19f1b263a5e481-1781987655-1781976855
 
